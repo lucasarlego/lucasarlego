@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Python, Database (SQL and NoSQL), Apache, Django and Machine Learning**
 
-- ⚡ Fun fact **I am an Official Yu-Gi-Oh! Judge**
+- ⚡ Fun fact **I am an Official Yu-Gi-Oh! Judge** and **Dungeon Master**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
