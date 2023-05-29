@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Arlego</h1>
-<h3 align="center">I'm in an internship at Compass.uol working with data analysis and i'm Back-end Director from Inova Tech Jr.</h3>
+<h3 align="center">I'm in an internship at Inova Tech Jr. as Back-end Director</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasarlego&label=Profile%20views&color=0e75b6&style=flat" alt="lucasarlego" /> </p>
 
