@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Arlego</h1>
-<h3 align="center">I'm in an internship at Inova Tech Jr. as Back-end Director</h3>
+<h3 align="center">I'll domain the AI!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasarlego&label=Profile%20views&color=0e75b6&style=flat" alt="lucasarlego" /> </p>
 
-- 🌱 I’m currently learning **AWS, Python, Database (SQL and NoSQL), Apache, Django and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, LLM, NLP**
 
 - ⚡ Fun fact **I am an Official Yu-Gi-Oh! Judge** and **Dungeon Master**
 
