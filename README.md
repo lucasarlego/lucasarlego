@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Lucas Arlego</h1>
+<h3 align="center">I'll domain the AI!</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lucas-arlego-tavares-cavalcanti-998943239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas arlego tavares cavalcanti" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -71,5 +77,13 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
+
+###
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasarlego&show_icons=true&locale=en&theme=tokyonight" alt="lucasarlego" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasarlego&theme=tokyonight" alt="lucasarlego" /></p>
+
+![Snake animation](https://github.com/lucasarlego/lucasarlego/blob/output/github-contribution-grid-snake.svg)
 
 ###
