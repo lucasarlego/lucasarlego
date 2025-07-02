@@ -65,10 +65,17 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasarlego&show_icons=true&locale=en&theme=tokyonight" alt="lucasarlego" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasarlego&theme=tokyonight" alt="lucasarlego" /></p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasarlego&show_icons=true&locale=en&theme=tokyonight" alt="lucasarlego stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasarlego&theme=tokyonight" alt="lucasarlego streak" />
+    </td>
+  </tr>
+</table>
+    
 ![Snake animation](https://github.com/lucasarlego/lucasarlego/blob/output/github-contribution-grid-snake.svg)
 
 ###
