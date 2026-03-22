@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Arlego</h1>
-<h3 align="center">I'll domain the AI!</h3>
+<h3 align="center">💭 | Generating synthetic thoughts...</h3>
 
 ###
 
